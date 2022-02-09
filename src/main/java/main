@@ -1,0 +1,11 @@
+package com.company;
+
+import com.rest.service.RestaurantService.com;
+public class Restaurant_project -Student version {
+  public static void main(String[] args){
+  RestuarantService restautrantService = new RestuarantService();
+  LocalTime localTime=LocalTime.of(2,8,4,567);
+  restaurantService.addRestuarant("Restaurant1","Boston",localTime,localTime);
+  System.out.println(restaurantService.findRestaurantByName("Restuarant1");
+  }
+  }
